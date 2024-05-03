@@ -1,0 +1,10 @@
+primary_fuel,CO2e/KWh
+Hydro,4.0
+Wind,11.0
+Nuclear,12.0
+Solar,41.0
+Gas,610.0
+Oil,840.0
+Coal,1214.5
+Biomass,230.0
+Geothermal,38.0
